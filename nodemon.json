@@ -1,0 +1,6 @@
+{
+  "env": {
+    
+    "JWT_KEY": "jwt_token_this_should_be_longer_and_hidden_for_use_it_to_config_token"
+  }
+}
